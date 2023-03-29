@@ -14,7 +14,6 @@ It is displayed as: <br />
 left - front - right <br />
 ------ down  ------- <br />
 ------ back  ------- <br />
- 
-<br />
+
 ![Solve-a-Rubik's-Cube-in-20-Moves-Step-25](https://user-images.githubusercontent.com/120693000/228654058-d706eb1a-25de-4034-9941-c7d57ebcf1f5.jpg)
 
